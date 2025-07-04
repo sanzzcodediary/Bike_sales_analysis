@@ -30,8 +30,9 @@ An interactive Excel dashboard was created using pivot tables and charts to high
 
 ## 📁 Files Included
 
-- `Bike_Sales_Dashboard.xlsx` – Excel file containing the full dashboard, raw data, and pivot tables
+- `Bike Sales Analysis.xlsx` – Excel file containing the full dashboard, raw data, and pivot tables
 - `README.md` – Project summary and instructions
+- `Excel Dashboard Preview,png`- Quick look at the dashboard
 
 ## 🧠 Key Insights
 
